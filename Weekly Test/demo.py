@@ -1,0 +1,1 @@
+print("sample demo for weekly test")
